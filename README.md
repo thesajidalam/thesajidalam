@@ -69,7 +69,7 @@
 | Platform | Link |
 |---------|------|
 | 📬 Email | sajidalamhere@gmail.com / sajidalam@email.com / sajidalam@linuxmail.org |
-| 🔗 Linktree | [linktr.ee/mohd_sajidalam](https://linktr.ee/mohd_sajidalam) |
+| 🔗 Linktree | [linktr.ee/thesajidalam](https://linktr.ee/thesajidalam) |
 | 💼 LinkedIn | [linkedin.com/in/thesajidalam](https://www.linkedin.com/in/thesajidalam/) |
 | 📷 Pinterest | [pinterest.com/thesajidalam](https://pinterest.com/thesajidalam/) |
 | 💬 Telegram | [t.me/thesajidalam](https://t.me/thesajidalam) |
