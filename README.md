@@ -48,10 +48,10 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isajidalam&show_icons=true&theme=tokyonight" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isajidalam&theme=tokyonight" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thesajidalam&show_icons=true&theme=tokyonight" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thesajidalam&theme=tokyonight" width="47%" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isajidalam&layout=compact&theme=tokyonight&hide=css,html" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesajidalam&layout=compact&theme=tokyonight&hide=css,html" width="47%" />
 </div>
 
 ---
@@ -70,7 +70,7 @@
 |---------|------|
 | 📬 Email | sajidalamhere@gmail.com / sajidalam@email.com / sajidalam@linuxmail.org |
 | 🔗 Linktree | [linktr.ee/mohd_sajidalam](https://linktr.ee/mohd_sajidalam) |
-| 💼 LinkedIn | [linkedin.com/in/isajidalam](https://www.linkedin.com/in/isajidalam/) |
+| 💼 LinkedIn | [linkedin.com/in/thesajidalam](https://www.linkedin.com/in/thesajidalam/) |
 | 📷 Pinterest | [pinterest.com/thesajidalam](https://pinterest.com/thesajidalam/) |
 | 💬 Telegram | [t.me/thesajidalam](https://t.me/thesajidalam) |
 
