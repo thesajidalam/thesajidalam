@@ -3,7 +3,7 @@
 <h3 align="center">Creative Technologist | IoT Enthusiast | Linux Explorer</h3>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/117466907" alt="Sajid Alam Banner" width="100%">
+  <img src="https://avatars.githubusercontent.com/u/117466907?s=200" alt="Sajid Alam Banner" width="100%">
 </p>
 
 ---
