@@ -43,7 +43,7 @@
 | 🧮 Modern Calculator | [Visit](https://modern-calculator.pages.dev/) | [Repo](https://github.com/thesajidalam/modern-calculator) | HTML, CSS, JS |
 | 😂 Funny Greeting | [Visit](https://thesajidalam.github.io/sajid) | [Repo](https://github.com/thesajidalam/sajid) | HTML, CSS |
 | 🍏 iOS Calculator UI | [Visit](https://ioscalculator.pages.dev/) | [Repo](https://github.com/thesajidalam/ios-calculator) | HTML, CSS |
-| 🌌 Gemini Chatbot | [Repo](https://github.com/thesajidalam/chatbot/)  | Python,Flask,Google Gemini API,HTML,CSS |
+| 🌌 Gemini Chatbot | [Repo](https://github.com/thesajidalam/chatbot/) | | Python,Flask,Google Gemini API,HTML,CSS |
 
 ---
 
