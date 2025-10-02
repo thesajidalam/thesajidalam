@@ -76,6 +76,8 @@
 
 ---
 
+[![An image of @thesajidalam's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thesajidalam)](https://holopin.io/@thesajidalam)
+
 <p align="center">
   <strong>“I build what I can’t find.”</strong>
 </p>
