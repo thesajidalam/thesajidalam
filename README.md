@@ -106,11 +106,21 @@
 |---------|------|
 | 📬 Email | sajidalamhere@gmail.com / sajidalam@email.com / sajidalam@linuxmail.org |
 | 🔗 Linktree | [linktr.ee/thesajidalam](https://linktr.ee/thesajidalam) |
-| 💼 LinkedIn | [linkedin.com/in/thesajidalam](https://www.linkedin.com/in/thesajidalam/) |
-| 📷 Pinterest | [pinterest.com/thesajidalam](https://pinterest.com/thesajidalam/) |
-| 💬 Telegram | [t.me/thesajidalam](https://t.me/thesajidalam) |
+
 
 ---
+<!-- CONTACT SECTION -->
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Connect With Me**
+
+<div align="center" style="background: rgba(0,217,255,0.1); padding: 25px; border-radius: 20px; border: 1px solid rgba(0,217,255,0.3);">
+
+| Platform | Link | Platform | Link |
+|:---:|:---:|:---:|:---:|
+| 💼 **LinkedIn** | [linkedin.com/in/thesajidalam](https://www.linkedin.com/in/thesajidalam/) | 🔗 **Linktree** | [linktr.ee/thesajidalam](https://linktr.ee/thesajidalam) |
+| 📷 **Pinterest** | [pinterest.com/thesajidalam](https://pinterest.com/thesajidalam/) | 💬 **Telegram** | [t.me/thesajidalam](https://t.me/thesajidalam) |
+| 🐙 **GitHub** | [github.com/thesajidalam](https://github.com/thesajidalam) | 🌐 **Portfolio** | [sajid.app](https://www.sajid.app) |
+
+</div>
 
 [![An image of @thesajidalam's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thesajidalam)](https://holopin.io/@thesajidalam)
 
