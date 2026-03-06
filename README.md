@@ -28,37 +28,72 @@
 - 🔐 Interested in web security & Burp Suite
 - 🎨 Also a digital creator — editing photos/videos professionally
 
-📬 **Emails:**
-- Public: `sajidalamhere@gmail.com`
-- Professional: `sajidalam@email.com`
-- Private Linuxmail: `sajidalam@linuxmail.org`
-
----
-
-### 🚀 Featured Projects
-
-| Project | Live Demo | Repo | Tech Used |
-|--------|------------|------|------------|
-| 🎛️ Base64 Encoder | [Visit](https://base64encodedecode.pages.dev/) | [Repo](https://github.com/thesajidalam/Base64Encoder) | HTML, JS |
-| 🧮 Modern Calculator | [Visit](https://modern-calculator.pages.dev/) | [Repo](https://github.com/thesajidalam/modern-calculator) | HTML, CSS, JS |
-| 😂 Funny Greeting | [Visit](https://thesajidalam.github.io/sajid) | [Repo](https://github.com/thesajidalam/sajid) | HTML, CSS |
-| 🍏 iOS Calculator UI | [Visit](https://ioscalculator.pages.dev/) | [Repo](https://github.com/thesajidalam/ios-calculator) | HTML, CSS |
-| 🌌 Gemini Chatbot | [Repo](https://github.com/thesajidalam/chatbot/) | | Python,Flask,Google Gemini API,HTML,CSS |
-
----
-
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thesajidalam&show_icons=true&theme=tokyonight" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thesajidalam&theme=tokyonight" width="47%" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesajidalam&layout=compact&theme=tokyonight&hide=css,html" width="47%" />
+<!-- EMAILS WITH COOL STYLING -->
+<div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; margin: 20px 0;">
+  
+  ### 📬 **Get In Touch**
+  
+  [![Gmail](https://img.shields.io/badge/Public-sajidalamhere@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sajidalamhere@gmail.com)
+  [![Email](https://img.shields.io/badge/Professional-sajidalam@email.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:sajidalam@email.com)
+  [![Linuxmail](https://img.shields.io/badge/Private-sajidalam@linuxmail.org-333333?style=for-the-badge&logo=linux&logoColor=white)](mailto:sajidalam@linuxmail.org)
+  
 </div>
 
----
 
-### ⚙️ Tech & Tools
+### 🚀 **Project Showcase**
 
+| Project | Description | Live Demo | Tech Stack |
+|---------|-------------|-----------|------------|
+| 🏥 **MedRush** | Mobile-first healthcare emergency platform for instant medicine discovery, prescription scanning & pharmacy reservations | [Visit](https://github.com/thesajidalam/MedRush-App-Website) | CSS, Mobile-First Design |
+| 🎮 **Gamified Learning** | AI-powered educational platform with interactive learning experiences | [Repo](https://github.com/thesajidalam/Gamified-Learning) | AI, Web Technologies |
+| 💬 **Chat-UI** | Telegram Bot Control Panel with modern responsive interface | [Repo](https://github.com/thesajidalam/Chat-UI) | HTML, JS, Telegram API |
+| 📱 **Nothing Gallery Port** | Native gallery app port (v2.3.1.1015) with default app support | [Repo](https://github.com/thesajidalam/nothinggalleryport) | Android, Java |
+| 🔐 **Emoji Encoder** | Encode/decode text into emoji sequences | [Repo](https://github.com/thesajidalam/Emoji-Encoder-Decoder) | HTML, JavaScript |
+| 🤖 **AI Chatbot** | Gemini API powered conversational AI with real-time responses | [Repo](https://github.com/thesajidalam/ai-chatbot) | TypeScript, Python, Flask |
+| 🎵 **Music Player** | Sleek mini music player with modern UI | [Repo](https://github.com/thesajidalam/Music-Player) | HTML, CSS, JS |
+| 🎮 **Flappy Bird** | Classic Flappy Bird game implementation | [Repo](https://github.com/thesajidalam/FlappyBird) | HTML, JavaScript |
+| 🗺️ **G-Maps Project** | Custom Google Maps integration project | [Repo](https://github.com/thesajidalam/gmaps) | JavaScript, Maps API |
+| 🧮 **Modern Calculator** | Sleek, high-performance calculator with smooth animations | [Visit](https://modern-calculator.pages.dev/) | [Repo](https://github.com/thesajidalam/Modern-Calculator) | HTML, CSS, JS |
+| 🎛️ **Base64 Encoder** | Simple text to Base64 encoding/decoding tool | [Visit](https://base64encodedecode.pages.dev/) | [Repo](https://github.com/thesajidalam/base64) | HTML, JS |
+| 🍏 **iOS Calculator** | Pixel-perfect iOS calculator clone | [Visit](https://ioscalculator.pages.dev/) | [Repo](https://github.com/thesajidalam/ios-calculator) | HTML, CSS |
+| 😂 **Funny Greeting** | Interactive greeting page | [Visit](https://thesajidalam.github.io/sajid) | [Repo](https://github.com/thesajidalam/sajid) | HTML, CSS |
+| 💖 **Heart Animation** | Beautiful heart animation project | [Repo](https://github.com/thesajidalam/heart) | HTML |
+| 🏫 **Basti Ki Pathshala** | Frontend development educational platform | [Repo](https://github.com/thesajidalam/BastiKiPathshala) | JavaScript |
+
+<!-- GITHUB STATS -->
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="35"> **GitHub Analytics**
+
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=thesajidalam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&count_private=true&include_all_commits=true&rank_icon=github" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thesajidalam&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" width="48%" alt="GitHub Streak" />
+  
+  <br/><br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesajidalam&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&hide=css,html&langs_count=8" width="47%" alt="Top Languages" />
+  
+</div>
+
+<!-- TECH STACK -->
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> **Tech Arsenal**
+
+<div align="center">
+
+### **Core Stack**
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,arduino,raspberrypi,python,cpp,js,ts,html,css,react,git,github,vscode,androidstudio&theme=dark&perline=7" />
+</p>
+
+### **Security & Creative Tools**
+<p>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe_Premiere-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+
+</div>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,arduino,raspberrypi,html,css,js,cpp,python,git,github,burpsuite,photoshop,premiere" />
 </p>
