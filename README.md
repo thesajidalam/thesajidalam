@@ -1,17 +1,37 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0D1117,50:00D9FF,100:0D1117&text=Sajid%20Alam&reversal=false&section=header&fontColor=FFFFFF&fontSize=75&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20IoT%20Engineer%20%E2%80%A2%20Android%20Developer&descAlignY=60&descSize=16"/>
+  <img src="https://raw.githubusercontent.com/thesajidalam/thesajidalam/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=00D9FF&center=true&vCenter=true&width=560&lines=I+build+what+I+can't+find;I+break+what+I+don't+understand;Then+I+fix+it+better;Full-Stack+%2B+Mobile+%2B+IoT;UI%2FUX+%2B+Security+%2B+Linux" alt="Typing SVG" />
-</p>
+```text
+                           ____     _ _   _       ___    __    __
+                          / ___|   (_) | (_)     / _ \  / _|  / _|
+                          \___ \   | | |  _     | | | || |_  | |_ 
+                           ___) |  | | | | |    | |_| ||  _| |  _|
+                          |____/   |_| |_| |     \___/ |_|   |_|
+                                         _/ |
+                                        |__/
+```
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=%24+whoami;Sajid+Alam;%24+uname+-o;Full-Stack+Developer;%24+cat+/etc/os-release;IoT+%2B+Android+%2B+Linux;%24+systemctl+status;Build.+Break.+Fix.+Repeat." alt="Typing SVG" />
+  </a>
+</h1>
 
 <p align="center">
   <a href="https://sajid.app"><img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=black" /></a>
   <a href="https://www.linkedin.com/in/thesajidalam/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/thesajidalam"><img src="https://img.shields.io/badge/GitHub-1F2937?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:sajidalamhere@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:sajidalamhere@gmail.com"><img src="https://img.shields.io/badge/Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linktr.ee/thesajidalam"><img src="https://img.shields.io/badge/Linktree-43E660?style=for-the-badge&logo=linktree&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Dev-00D9FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Location-Prayagraj,%20India-0A66C2?style=flat-square" />
+  <img src="https://img.shields.io/badge/OS-Arch%20%2F%20Kali-1793D1?style=flat-square&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shell-Zsh%20%E2%97%B8%20Oh%20My%20Zsh-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Editor-VS%20Code%20%E2%97%B8%20Neovim-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
 </p>
 
 ---
@@ -64,8 +84,15 @@ vibe: "Offline-first. Privacy-aware. Open-source-hearted."
 
 ---
 
-<!-- ===== STATISTICS ===== -->
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="35"> Analytics
+<!-- ===== METRICS ===== -->
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="35"> Metrics
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Repos-10%2B-00D9FF?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Commits-500%2B-0A66C2?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/Languages-8-7C3AED?style=for-the-badge&logo=code" />
+  <img src="https://img.shields.io/badge/Status-Building-10B981?style=for-the-badge&logo=progress" />
+</p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thesajidalam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&count_private=true&include_all_commits=true&rank_icon=github" width="49%" />
@@ -73,7 +100,7 @@ vibe: "Offline-first. Privacy-aware. Open-source-hearted."
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesajidalam&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&hide=css,html&langs_count=8" width="40%" />
   <br/><br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=thesajidalam&theme=algolia&no-frame=true&no-bg=true" width="85%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thesajidalam&theme=tokyonight" width="90%" />
 </div>
 
 ---
@@ -83,12 +110,6 @@ vibe: "Offline-first. Privacy-aware. Open-source-hearted."
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=thesajidalam&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&point=00D9FF&line=00D9FF&area_color=00D9FF&radius=8" width="95%" />
-  <br/><br/>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thesajidalam/thesajidalam/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thesajidalam/thesajidalam/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/thesajidalam/thesajidalam/output/github-contribution-grid-snake.svg" width="80%" />
-  </picture>
 </div>
 
 ---
@@ -132,5 +153,9 @@ vibe: "Offline-first. Privacy-aware. Open-source-hearted."
   <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=thesajidalam&label=PROFILE+VIEWS&style=for-the-badge&color=00D9FF" alt="Profile Views" />
   <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0D1117,50:00D9FF,100:0D1117&section=footer"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thesajidalam/thesajidalam/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thesajidalam/thesajidalam/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/thesajidalam/thesajidalam/output/github-contribution-grid-snake.svg" width="80%" />
+  </picture>
 </div>
