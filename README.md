@@ -22,6 +22,8 @@
   <a href="https://sajid.app"><img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=black" /></a>
   <a href="https://www.linkedin.com/in/thesajidalam/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/thesajidalam"><img src="https://img.shields.io/badge/GitHub-1F2937?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://g.dev/thesajidalam"><img src="https://img.shields.io/badge/g.dev-thesajidalam-4285F4?style=for-the-badge&logo=google&logoColor=white" /></a>
+  <a href="https://developers.google.com/profile"><img src="https://img.shields.io/badge/Google%20Dev-4285F4?style=for-the-badge&logo=google&logoColor=white" /></a>
   <a href="mailto:sajidalamhere@gmail.com"><img src="https://img.shields.io/badge/Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linktr.ee/thesajidalam"><img src="https://img.shields.io/badge/Linktree-43E660?style=for-the-badge&logo=linktree&logoColor=white" /></a>
 </p>
@@ -142,9 +144,21 @@ vibe: "Offline-first. Privacy-aware. Open-source-hearted."
 
 <br/>
 
-<a href="https://holopin.io/@thesajidalam">
-  <img src="https://holopin.me/thesajidalam" alt="Holopin Badges" width="100%" />
-</a>
+<div align="center">
+  <a href="https://developers.google.com/profile">
+    <img src="https://img.shields.io/badge/Google%20Developer%20Program-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  </a>
+  <a href="https://g.dev/thesajidalam">
+    <img src="https://img.shields.io/badge/g.dev-thesajidalam-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  </a>
+  <a href="https://me.developers.google.com/u/thesajidalam">
+    <img src="https://img.shields.io/badge/Profile%20Settings-34A853?style=for-the-badge&logo=google&logoColor=white" />
+  </a>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Available%20on-Google%20Developer%20Program-4285F4?style=flat-square&logo=google" />
+  <img src="https://img.shields.io/badge/Status-Active-34A853?style=flat-square" />
+  <img src="https://img.shields.io/badge/Build%20with-Google%20AI-4285F4?style=flat-square&logo=gemini&logoColor=white" />
+</div>
 
 ---
 
