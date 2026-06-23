@@ -10,6 +10,8 @@
   <a href="https://sajid.app"><img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=black" /></a>
   <a href="https://www.linkedin.com/in/thesajidalam/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/thesajidalam"><img src="https://img.shields.io/badge/GitHub-1F2937?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://g.dev/thesajidalam"><img src="https://img.shields.io/badge/g.dev-thesajidalam-4285F4?style=for-the-badge&logo=google&logoColor=white" /></a>
+  <a href="https://me.developers.google.com/u/thesajidalam"><img src="https://img.shields.io/badge/Google%20Dev-4285F4?style=for-the-badge&logo=google&logoColor=white" /></a>
   <a href="mailto:sajidalamhere@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linktr.ee/thesajidalam"><img src="https://img.shields.io/badge/Linktree-43E660?style=for-the-badge&logo=linktree&logoColor=white" /></a>
 </p>
@@ -83,12 +85,6 @@ vibe: "Offline-first. Privacy-aware. Open-source-hearted."
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=thesajidalam&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&point=00D9FF&line=00D9FF&area_color=00D9FF&radius=8" width="95%" />
-  <br/><br/>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thesajidalam/thesajidalam/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thesajidalam/thesajidalam/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/thesajidalam/thesajidalam/output/github-contribution-grid-snake.svg" width="80%" />
-  </picture>
 </div>
 
 ---
