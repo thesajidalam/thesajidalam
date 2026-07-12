@@ -1,4 +1,22 @@
 <div align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,10:0a0e1a,25:001a33,40:00D9FF,50:0891B2,60:00D9FF,75:001a33,90:0a0e1a,100:0D1117&section=header&text=SAJID%20ALAM&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20IoT%20Engineer%20%7C%20Security%20Researcher&descSize=16&descAlignY=55&animation=twinkling"/>
+
+  <br/>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=%E2%9A%A1+ARCHITECT+OF+DIGITAL+SYSTEMS+%E2%9A%A1%3B%F0%9F%A4%96+BUILDING+BEYOND+LIMITS+%F0%9F%A4%96%3B%E2%9A%94+HACKING+THE+IMPOSSIBLE+%E2%9A%94" alt="Typing SVG" />
+  </a>
+
+  <br/>
+
+  <img src="https://komarev.com/ghpvc/?username=thesajidalam&label=ELITE%20DEVELOPER&style=for-the-badge&color=00D9FF&labelColor=0D1117&borderColor=00D9FF" />
+  <img src="https://img.shields.io/badge/%F0%9F%94%A5-Open%20Source-FF4500?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/%E2%9A%94%EF%B8%8F-Security%20First-00D9FF?style=for-the-badge&labelColor=0D1117" />
+
+</div>
+
+<div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
 </div>
 
