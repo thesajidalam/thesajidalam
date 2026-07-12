@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0D1117,50:00D9FF,100:0D1117&text=Sajid%20Alam&reversal=false&section=header&fontColor=FFFFFF&fontSize=75&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20IoT%20Engineer%20%E2%80%A2%20Android%20Developer&descAlignY=60&descSize=16](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)"/>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
 </div>
 
 <p align="center">
