@@ -1,7 +1,6 @@
-<div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,10:0a0e1a,25:001a33,40:00D9FF,50:0891B2,60:00D9FF,75:001a33,90:0a0e1a,100:0D1117&section=header&text=SAJID%20ALAM&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20IoT%20Engineer%20%7C%20Security%20Researcher&descSize=16&descAlignY=55&animation=twinkling"/>
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=52&duration=80&pause=999999&color=00FF41&center=true&vCenter=true&repeat=false&width=650&height=80&lines=%3E+SAJID+ALAM_" />
+</p>
   <br/>
 
   <a href="https://git.io/typing-svg">
