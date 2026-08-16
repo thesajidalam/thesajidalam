@@ -12,7 +12,7 @@
 
   <br/>
 
-  <img src="https://komarev.com/ghpvc/?username=thesajidalam&label=ELITE%20DEVELOPER&style=for-the-badge&color=00D9FF&labelColor=0D1117&borderColor=00D9FF" />
+  <img src="[https://komarev.com/ghpvc/?username=thesajidalam&label=ELITE%20DEVELOPER&style=for-the-badge&color=00D9FF&labelColor=0D1117&borderColor=00D9FF](https://komarev.com/ghpvc/?username=thesajidalam&label=PROFILE%20VIEWS&style=for-the-badge&color=00D9FF&labelColor=0D1117&borderColor=00D9FF)" />
   <img src="https://img.shields.io/badge/%F0%9F%94%A5-Open%20Source-FF4500?style=for-the-badge&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/%E2%9A%94%EF%B8%8F-Security%20First-00D9FF?style=for-the-badge&labelColor=0D1117" />
 
