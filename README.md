@@ -3,9 +3,8 @@
 </p>
   <br/>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=%E2%9A%A1+ARCHITECT+OF+DIGITAL+SYSTEMS+%E2%9A%A1%3B%F0%9F%A4%96+BUILDING+BEYOND+LIMITS+%F0%9F%A4%96%3B%E2%9A%94+HACKING+THE+IMPOSSIBLE+%E2%9A%94" alt="Typing SVG" />
-  </a>
+
+
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=thesajidalam&label=Profile%20Views&color=334155&style=flat-square" alt="Profile Views" /> 
 
 
