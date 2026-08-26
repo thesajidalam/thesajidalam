@@ -36,18 +36,34 @@
 
 ---
 
-<!-- ===== TABLE OF CONTENTS ===== -->
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> Navigation
+<!-- ===== NAVIGATION ===== -->
+<div align="center">
 
-<p align="center">
-  <a href="#identity">👤 Identity</a> •
-  <a href="#build-log">🚀 Build Log</a> •
-  <a href="#analytics">📊 Analytics</a> •
-  <a href="#contributions">📈 Contributions</a> •
-  <a href="#stack">🛠️ Stack</a> •
-  <a href="#connect">🤝 Connect</a> •
-  <a href="#holopin">🏆 Holopin</a>
-</p>
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="24"> Navigation
+
+<a href="#identity">
+  <img src="https://img.shields.io/badge/👤_Identity-1F2937?style=flat-square&labelColor=0D1117" />
+</a>
+<a href="#build-log">
+  <img src="https://img.shields.io/badge/🚀_Build_Log-00D9FF?style=flat-square&labelColor=0D1117" />
+</a>
+<a href="#analytics">
+  <img src="https://img.shields.io/badge/📊_Analytics-1F2937?style=flat-square&labelColor=0D1117" />
+</a>
+<a href="#contributions">
+  <img src="https://img.shields.io/badge/📈_Contributions-1F2937?style=flat-square&labelColor=0D1117" />
+</a>
+<a href="#stack">
+  <img src="https://img.shields.io/badge/🛠️_Stack-1F2937?style=flat-square&labelColor=0D1117" />
+</a>
+<a href="#connect">
+  <img src="https://img.shields.io/badge/🤝_Connect-1F2937?style=flat-square&labelColor=0D1117" />
+</a>
+<a href="#holopin">
+  <img src="https://img.shields.io/badge/🏆_Holopin-1F2937?style=flat-square&labelColor=0D1117" />
+</a>
+
+</div>
 
 ---
 
@@ -89,14 +105,76 @@ vibe: "Offline-first. Privacy-aware. Open-source-hearted."
 ## 🚀 Build Log <a id="build-log"></a>
 
 <table>
+  <!-- === FLAGSHIP PROJECTS === -->
   <tr>
-    <td width="180" align="center"><b>SMSController</b></td>
-    <td width="320">Remote Android control via SMS — GPS, camera, call logs, SIM, hard reset</td>
+    <td width="180" align="center"><b>Portfolio</b></td>
+    <td width="320">Developer portfolio with particle networks, custom cursor, typewriter effect, dark/light themes</td>
     <td width="200">
+      <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" /> 
+      <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" /> 
+      <img src="https://img.shields.io/badge/Framer_Motion-0055FF?logo=framer&logoColor=white" />
+    </td>
+    <td width="100" align="center">
+      <a href="https://github.com/thesajidalam/Portfolio-main"><img src="https://img.shields.io/badge/Repo-181717?logo=github" /></a>
+      <a href="https://sajid.app"><img src="https://img.shields.io/badge/Live-00D9FF?logo=google-chrome" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>JsonForge</b></td>
+    <td>Professional JSON toolkit — format, validate, tree view, diff, convert. 6 themes, zero dependencies, fully client-side</td>
+    <td>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" /> 
+      <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" /> 
+      <img src="https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white" />
+    </td>
+    <td align="center">
+      <a href="https://github.com/thesajidalam/json-forge"><img src="https://img.shields.io/badge/Repo-181717?logo=github" /></a>
+      <a href="https://json-forge.sajidalamhere.workers.dev"><img src="https://img.shields.io/badge/Live-00D9FF?logo=google-chrome" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>BraveOriginFree</b></td>
+    <td>Free Brave browser activation for Windows — signed binary, portable, no admin required. 26+ stars</td>
+    <td>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/Windows-0078D4?logo=windows&logoColor=white" />
+    </td>
+    <td align="center">
+      <a href="https://github.com/thesajidalam/BraveOriginFree"><img src="https://img.shields.io/badge/Repo-181717?logo=github" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Developer Portfolio</b></td>
+    <td>Open-source portfolio intelligence — scoring, analysis, comparison across performance, accessibility, SEO</td>
+    <td>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" /> 
+      <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
+    </td>
+    <td align="center">
+      <a href="https://github.com/thesajidalam/developer-portfolio"><img src="https://img.shields.io/badge/Repo-181717?logo=github" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>vibeguard</b></td>
+    <td>AI-powered code scanner — finds bugs, security issues, performance problems. Generates downloadable reports</td>
+    <td>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/AI-8B5CF6?logo=openai&logoColor=white" />
+    </td>
+    <td align="center">
+      <a href="https://github.com/thesajidalam/vibeguard"><img src="https://img.shields.io/badge/Repo-181717?logo=github" /></a>
+    </td>
+  </tr>
+
+  <!-- === ANDROID / IOT === -->
+  <tr>
+    <td align="center"><b>SMSController</b></td>
+    <td>Remote Android control via SMS — GPS, camera, call logs, SIM, hard reset. 100% offline</td>
+    <td>
       <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white" /> 
       <img src="https://img.shields.io/badge/Android-34A853?logo=android&logoColor=white" />
     </td>
-    <td width="100" align="center">
+    <td align="center">
       <a href="https://github.com/thesajidalam/SMSController"><img src="https://img.shields.io/badge/Repo-181717?logo=github" /></a>
     </td>
   </tr>
@@ -111,9 +189,11 @@ vibe: "Offline-first. Privacy-aware. Open-source-hearted."
       <a href="https://github.com/thesajidalam/nothinggalleryport"><img src="https://img.shields.io/badge/Repo-181717?logo=github" /></a>
     </td>
   </tr>
+
+  <!-- === WEB APPS === -->
   <tr>
     <td align="center"><b>QuestLearn</b></td>
-    <td>RPG-style learning — quests, XP, leaderboards, daily streaks</td>
+    <td>RPG-style gamified learning — quests, XP, leaderboards, daily streaks</td>
     <td>
       <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" /> 
       <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" /> 
@@ -125,7 +205,7 @@ vibe: "Offline-first. Privacy-aware. Open-source-hearted."
   </tr>
   <tr>
     <td align="center"><b>MedRush</b></td>
-    <td>Healthcare emergency — medicine discovery, prescription scan, pharmacy reservations</td>
+    <td>Healthcare platform — medicine discovery, prescription scan, pharmacy reservations</td>
     <td>
       <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" /> 
       <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
@@ -133,19 +213,6 @@ vibe: "Offline-first. Privacy-aware. Open-source-hearted."
     <td align="center">
       <a href="https://github.com/thesajidalam/MedRush-App-Website"><img src="https://img.shields.io/badge/Repo-181717?logo=github" /></a>
       <a href="https://thesajidalam.github.io/MedRush-App-Website/"><img src="https://img.shields.io/badge/Live-00D9FF?logo=google-chrome" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Portfolio</b></td>
-    <td>Particle networks, custom cursor, typewriter, dark/light themes</td>
-    <td>
-      <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" /> 
-      <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" /> 
-      <img src="https://img.shields.io/badge/Framer_Motion-0055FF?logo=framer&logoColor=white" />
-    </td>
-    <td align="center">
-      <a href="https://github.com/thesajidalam/Portfolio-main"><img src="https://img.shields.io/badge/Repo-181717?logo=github" /></a>
-      <a href="https://sajid.app"><img src="https://img.shields.io/badge/Live-00D9FF?logo=google-chrome" /></a>
     </td>
   </tr>
   <tr>
@@ -162,7 +229,7 @@ vibe: "Offline-first. Privacy-aware. Open-source-hearted."
   </tr>
   <tr>
     <td align="center"><b>Chat UI</b></td>
-    <td>Telegram Bot Control Panel — dark mode, message bubbles</td>
+    <td>Telegram Bot Control Panel — dark mode, message bubbles, real-time simulation</td>
     <td>
       <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" /> 
       <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
