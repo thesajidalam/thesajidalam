@@ -10,7 +10,7 @@
 
   <br/>
 
-  <img src="https://komarev.com/ghpvc/?username=thesajidalam&label=ELITE%20DEVELOPER&style=for-the-badge&color=00D9FF&labelColor=0D1117&borderColor=00D9FF](https://komarev.com/ghpvc/?username=thesajidalam&label=PROFILE%20VIEWS&style=for-the-badge&color=00D9FF&labelColor=0D1117&borderColor=00D9FF" />
+  <img src="https://komarev.com/ghpvc/?username=thesajidalam&label=ELITE+DEVELOPER&style=for-the-badge&color=00D9FF&labelColor=0D1117&borderColor=00D9FF" />
   <img src="https://img.shields.io/badge/%F0%9F%94%A5-Open%20Source-FF4500?style=for-the-badge&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/%E2%9A%94%EF%B8%8F-Security%20First-00D9FF?style=for-the-badge&labelColor=0D1117" />
 
@@ -141,6 +141,7 @@ vibe: "Offline-first. Privacy-aware. Open-source-hearted."
     </td>
     <td align="center">
       <a href="https://github.com/thesajidalam/BraveOriginFree"><img src="https://img.shields.io/badge/Repo-181717?logo=github" /></a>
+      <a href="https://braveorigin.vercel.app"><img src="https://img.shields.io/badge/Live-00D9FF?logo=google-chrome" /></a>
     </td>
   </tr>
   <tr>
@@ -152,6 +153,7 @@ vibe: "Offline-first. Privacy-aware. Open-source-hearted."
     </td>
     <td align="center">
       <a href="https://github.com/thesajidalam/developer-portfolio"><img src="https://img.shields.io/badge/Repo-181717?logo=github" /></a>
+      <a href="https://gitdevfolio.vercel.app"><img src="https://img.shields.io/badge/Live-00D9FF?logo=google-chrome" /></a>
     </td>
   </tr>
   <tr>
@@ -163,6 +165,7 @@ vibe: "Offline-first. Privacy-aware. Open-source-hearted."
     </td>
     <td align="center">
       <a href="https://github.com/thesajidalam/vibeguard"><img src="https://img.shields.io/badge/Repo-181717?logo=github" /></a>
+      <a href="https://guardvibe.vercel.app"><img src="https://img.shields.io/badge/Live-00D9FF?logo=google-chrome" /></a>
     </td>
   </tr>
 
@@ -201,6 +204,7 @@ vibe: "Offline-first. Privacy-aware. Open-source-hearted."
     </td>
     <td align="center">
       <a href="https://github.com/thesajidalam/Gamified-Learning"><img src="https://img.shields.io/badge/Repo-181717?logo=github" /></a>
+      <a href="https://gamified-learning-zeta.vercel.app"><img src="https://img.shields.io/badge/Live-00D9FF?logo=google-chrome" /></a>
     </td>
   </tr>
   <tr>
