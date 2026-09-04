@@ -216,7 +216,7 @@ vibe: "Offline-first. Privacy-aware. Open-source-hearted."
     </td>
     <td align="center">
       <a href="https://github.com/thesajidalam/MedRush-App-Website"><img src="https://img.shields.io/badge/Repo-181717?logo=github" /></a>
-      <a href="https://thesajidalam.github.io/MedRush-App-Website/"><img src="https://img.shields.io/badge/Live-00D9FF?logo=google-chrome" /></a>
+      <a href="https://medrushweb.vercel.app/"><img src="https://img.shields.io/badge/Live-00D9FF?logo=google-chrome" /></a>
     </td>
   </tr>
   <tr>
